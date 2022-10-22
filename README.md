@@ -8,4 +8,4 @@
 
 **3.** Já trabalhei com Linguagem R, SQL, Power BI, Looker, Metabase, além de velho Excel (quem nunca) e IBM SPSS.
 
-**4.** Gosto de ler, estudar e de discussões úteis para me manter em constante aprendizado.
+**4.** Gosto de ler, ouvir podcast e de discussões úteis para me manter em constante aprendizado.
